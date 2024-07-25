@@ -1,3 +1,6 @@
+-- Может быть устаревшей
+-- https://sqlfiddle.com/oracle-plsql/online-compiler?id=058479db-b91c-41c1-b2e0-64bdd56248da
+
 drop table if exists employees;
 
 -- INIT database
